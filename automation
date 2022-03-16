@@ -1,0 +1,35 @@
+
+#!/bin/bash
+
+tres(){
+    echo "tres estudios abiertos"
+    cd portada
+    pdflatex portada.tex
+    cd ..
+    mkdir out
+    cp latex/tres.tex out
+    cd out
+    pdflatex tres.tex
+    bibtex tres
+    pdflatex tres.tex
+    bibtex tres
+    pdflatex tres.tex
+    cp tres.pdf ../
+    cd ..
+    rm -r out
+}
+
+anti(){
+    echo "anti"
+    mkdir out
+    cp anti/antiPaper.tex out
+    cd out
+    pdflatex antiPaper
+    bibtex antiPaper
+    pdflatex antiPaper
+    bibtex antiPaper
+    pdflatex antiPaper
+    cp antiPaper.pdf ../
+    cd ..
+    rm -r out
+}

@@ -1,0 +1,107 @@
+%\documentclass[12pt,letterpaper]{report}
+\documentclass[12pt,a4paper, twoside, openright,
+headinclude,footinclude,BCOR5mm,
+numbers=noenddot,cleardoublepage=empty,
+tablecaptionabove]{scrreprt}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+
+\usepackage{hyperref}
+\usepackage[sort&compress]{natbib}
+\usepackage{setspace}
+%\usepackage{subfiles}
+%\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage[eulerchapternumbers,subfig,beramono,eulermath,pdfspacing]{classicthesis}
+\usepackage{arsclassica}
+\usepackage[final]{pdfpages}
+
+\usepackage[a4paper,
+            bindingoffset=0in]{geometry}
+
+%\definecolor{gris}{rgb}{0.9, 0.9, 0.9}
+%\pagecolor{black}
+%\color{white}f
+
+%\input{sec/glos}
+% Magenta para fondo blanco, Lavender para fondo negro 
+
+\hypersetup{%
+  colorlinks=true,
+  linkcolor=Magenta,
+  filecolor=Magenta,      
+  urlcolor=Magenta,
+  citecolor=Magenta,
+}
+
+%\usepackage{enotez}
+%\let\footnote=\endnote
+
+\urlstyle{same}
+
+%\usepackage[toc]{glossaries}
+%\makeglossaries
+%\input{sec/glos.tex}
+
+\usepackage{etoolbox}
+\newtoggle{tesis}
+\toggletrue{tesis}
+
+% \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\author{Emilio Ocelotl Reyes}
+
+\title{%
+  Tres Estudios Abiertos \\
+  \large Prácticas performáticas, audiovisuales y experimentales en el navegador}
+
+
+\begin{document}
+
+%\maketitle
+
+%\input{sec/portada/portada.pdf}
+\includepdf{../portada/portada.pdf}
+
+\tableofcontents
+\listoffigures
+
+\input{../introduccion/introduccion}
+\input{../antecedentes/antecedentes}
+\input{../perspectivas/perspectivas}
+
+% Primer capítulo 
+
+% \input{sec/casos}
+% \input{sec/ecosistema}
+% \input{sec/interfaz}
+% \subfile{sec/anti/anti}
+
+% \input{sec/efectos}
+
+\input{../three/three}
+\input{../anti/anti}
+%\input{sec/caso3}
+
+%\input{sec/caso3}
+% Segundo capítulo 
+
+
+% Tercer capítulo 
+
+% \input{sec/escritura}
+
+% \input{sec/conclusiones}
+
+\addcontentsline{toc}{chapter}{\protect\numberline{}Referencias}%
+\bibliography{../bib/panBib}{} 
+\bibliographystyle{../bib/apalike-es}
+\clearpage
+
+%\printglossaries
+
+\end{document}
