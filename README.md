@@ -5,6 +5,8 @@ Prácticas performáticas, audiovisuales y experimentales con lenguajes de progr
 
 ## Ejecución
 
+Compilar el documento, actualizar bibliografía 
+
 1.- clonar
 > git clone https://github.com/emilioocelotl/tres.git
 
@@ -14,10 +16,10 @@ Prácticas performáticas, audiovisuales y experimentales con lenguajes de progr
 3.- compilar doc principal
 > tres
 
+Paso tres pero con la primer palabra del título para compilar por carpeta 
+
 ## Pendientes
 
-- [ ] Querido gato: Eliminar archivos en carpetas como anti ( con automat ) 
-- [ ] Artículos particulares
+- [ ] Eliminar archivos en carpetas como anti ( con automat ) 
 - [ ] Compilar web tipo documento
 - [ ] Web tipo otra cosa
-- [ ] Requisitos 

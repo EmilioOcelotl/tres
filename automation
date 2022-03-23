@@ -3,8 +3,12 @@
 
 tres(){
     echo "tres estudios abiertos"
-    cd portada
+    mkdir out
+    cp portada/portada.tex out
+    cd out
     pdflatex portada.tex
+    cp portada.pdf ../portada
+    rm -r out
     cd ..
     mkdir out
     cp latex/tres.tex out
@@ -14,9 +18,10 @@ tres(){
     pdflatex tres.tex
     bibtex tres
     pdflatex tres.tex
-    cp tres.pdf ../
+    cp tres.pdf ../pdf
     cd ..
     rm -r out
+    rm portada/portada.pdf
 }
 
 anti(){
