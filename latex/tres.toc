@@ -1,0 +1,44 @@
+\babel@toc {spanish}{}\relax 
+\vspace {-\cftbeforepartskip }
+\contentsline {chapter}{\numberline {1}{Introducción}}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}{Premisas de investigación}}{7}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}{Premisa principal}}{7}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}{Premisas secundarias}}{8}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}{Metodología}}{8}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}{Perspectiva de investigación}}{8}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}{Recurso(s) de investigación}}{9}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}{Herramientas}}{9}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}{Objetivos}}{9}{section.1.3}%
+\contentsline {section}{\numberline {1.4}{Justificación}}{10}{section.1.4}%
+\contentsline {chapter}{\numberline {2}{Antecedentes}}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}{Trilogía de Investigación}}{11}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}{Objeto, Paisaje y Efecto}}{11}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}{Cuidado con la Brecha}}{12}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}{Tres Estudios Abiertos}}{12}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}{Música por computadora y algorítmica}}{12}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}{Plataformas}}{12}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}{Jacktrip y la música conectada}}{13}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}{Fluxus y openGL}}{13}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}{Live Coding}}{14}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}{Primeras expresiones}}{14}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}{Nodos y circuitos}}{15}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}{Exploración visual}}{15}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}{Proyectos Colindantes}}{16}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}{Nivel Bajo}}{16}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}{Nivel Medio}}{16}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}{Nivel Alto y Ecosistemas}}{17}{subsection.2.4.3}%
+\contentsline {subsubsection}{{Nivel Alto}}{17}{subsection.2.4.3}%
+\contentsline {subsubsection}{{Ecosistemas}}{17}{subsection.2.4.3}%
+\contentsline {section}{\numberline {2.5}{Piezas y obras lejanas}}{18}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}{Notas de Ausencia}}{18}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}{Hydra, visuales y el navegador}}{19}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}{The Stage is (A)Live}}{19}{subsection.2.5.3}%
+\contentsline {section}{\numberline {2.6}{Piezas y obras cercanas}}{20}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}{Pumpumyatchkan}}{20}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}{Concierto de clausura}}{20}{subsection.2.6.2}%
+\contentsline {section}{\numberline {2.7}{PiranhaLab}}{20}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}{Escritura de y con software}}{21}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}{Ciclo de Talleres}}{21}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}{EDGES 2020}}{21}{subsection.2.7.3}%
+\contentsline {chapter}{\numberline {}Referencias}{22}{subsection.2.7.3}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

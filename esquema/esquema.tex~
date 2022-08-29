@@ -1,0 +1,275 @@
+% Created 2022-08-22 lun 18:51
+% Intended LaTeX compiler: pdflatex
+
+\documentclass[12pt,a4paper, openright,
+headinclude,footinclude,BCOR5mm,
+numbers=noenddot,cleardoublepage=empty,
+tablecaptionabove]{article}
+
+% \documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+%\usepackage{amsmath}
+%\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+
+\usepackage{subfig}
+\usepackage[eulerchapternumbers,subfig,beramono,eulermath,pdfspacing]{classicthesis}
+\usepackage{arsclassica}
+
+\usepackage[a4paper,
+            bindingoffset=0in]{geometry}
+
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+%\usepackage{enotez}
+%\let\footnote=\endnote
+
+\urlstyle{same}
+\author{Emilio Ocelotl Reyes}
+
+\title{%
+  Tres Estudios Abiertos \\
+  \large Prácticas performáticas, audiovisuales y experimentales en el navegador}
+
+\begin{document}
+
+\maketitle
+\pagebreak
+\tableofcontents
+
+\chapter{Tres Estudios Abiertos}
+
+\section{Premisas de investigación}
+
+% Considero que la premisa abre posibilidades y no restringe la investigación a la resolución de un problema o a la constatación por medio de la medición pero sí a la confirmación de la premisa.
+
+% Se podría cambiar a pregunta y de todas formas funcionaría 
+
+\subsection{Premisa principal}
+
+% Premisa principal que es una reflexión compleja. Aquí tendría que ser la suma 
+
+% Pregunta. Cuales son los limites del pensamiento musical en web 
+
+\begin{itemize}
+\item Es posible construir un conjunto de módulos granulares audiovisuales para el navegador que permitan, por un lado, reflexionar desde la metáfora de los conceptos musicales, tecnógicos e investigativos y por el otro, explorar la expresividad de piezas audiovisuales alojadas en la web y producidas con leguajes de programación.\footnote{Al momento de escritura los prototipos de estos módulos se pueden encontrar en \url{https://github.com/EmilioOcelotl/grnlcn}}
+\end{itemize}
+
+\subsection{Premisas secundarias}
+
+% Síntesis granular - premisa secundaria 
+
+\begin{itemize}
+  
+\item Los límites de mi lenguaje ( de programación-artístico-audiovisual ) son los límites de mi mundo.
+\item Es posible agrupar múltiples eventos audiovisuales en una estructura general temporal.
+\item La noción de escala de tiempo (Curtis Roads) puede ser un recurso de investigación para la resolución tecnológica, reflexiva y estética.
+
+  % Fer ha mencionado el abuso de la palabra estética entonces esta discusión sobre los conceptos queda pendiente 
+  
+\item La última capa de abstracción podría ser una interfaz live codeable y permitiría resolver la contradicción entre estructuras fijas y estructuras dinámicas con retroalimentación humano-máquina
+
+  % Comentario: la interfaz de código podría "live codearse" en la consola 
+
+\end{itemize}
+
+\section{Metodología}
+
+% Aquí hace falta un cómo, igual puedo retomar ideas de los estudios del software
+
+Investigación con y sobre código. Esto quiere decir que el documento principal del proyecto será software y el código que lo posibilita.
+
+\subsection{Perspectiva de investigación}
+
+El proyecto toma como punto de partida la propuesta de Geoff Cox (la reflexión con y sobre código). Los planteamientos que resolveremos partirán del esquema tesis, antítesis, síntesis. Cada una de las siguientes contradicciones serían abordadas en cada capítulo. No necesariamente están escritas en orden de aparición.
+
+% Pensar si lo siguiente se puede distribuir en los capítulos de la tesis 
+
+\begin{itemize}
+
+\item En lo tecnológico considero que esta reflexión puede contraponer dos paradigmas ( programa fijo y programa variable ) para encontrar una resolución ( interfaz de texto).  
+
+\item En lo reflexivo, se puede abordar la distinción usuario/desarrollador para dar seguimiento a procesos que marcan reconfiguración de ésta.
+
+\item Desde el punto de vista estético se puede abordar la aparente contradicción entre programas eficientes optimizados y otras búsquedas estéticas que plantean ofuscación o incluso el software que se escribe en contra del propio marco en el que está escrito.
+
+\item Desde el punto de vista investigativo se podrían abordar la escritura textual y la escritura con código y se podría plantear una resolución para la aparente brecha entre ellas.
+
+\end{itemize}
+
+\subsection{Recurso(s) de investigación}
+
+Clarificar que la aproximación no es cuantitativa, es decir, si el proyecto toma en consideración algun tipo de medición, esto no será lo principal. No persigo la optimización como valor ``estético''. El objetivo del proyecto es explorar las implicaciones alternativas y poéticas del código. Para esto, es nesceario tener una aproximación cualitativa en términos de la interpretación intersubjetiva del código y sus instancias en piezas artísticas. 
+
+% Interpretación verbalizada. Estudiar cuales son los procesos creativos que bordo. COmplemento en la propuesta. Retroalimentación y la escucha se da a lo largo del diseño de las tecnologías 
+
+% Hay un problema de distinción entre piezas e investigación. Pienso que el código puede ser el puente de todo esto. 
+
+\subsection{Herramientas}
+
+Estándar de investigación ( latex, bibtex ) en relación al modo personalizado de resolver problemas ( terminal, emacs, instancias de código en distintos modos, repositorios en git, org-mode, comentarios que no se ejecutan o imprimen en la última versión del documento, recursos audiovisuales como piezas ejecutables en el navegador, videos, audios e imágenes )
+
+% Investigación desbordada: la versión compilada y la versión con comentarios 
+
+\section{Objetivos}
+
+\begin{itemize}
+\item Escribir módulos de síntesis granular con WebAudioAPI y AudioWorklets
+\item Realizar una serie de piezas que acompañen a la investigación
+\item Establecer un puente reflexivo entre estos dos ámbitos desde los estudios del software
+\item Desbordar la escritura académica a la escritura con código y performática-interactiva
+\end{itemize}
+
+\section{Justificación}
+
+El proyecto busca explorar las posibilidades del navegador como paradigma de renderizado de audio y video y en general, como un "sistema operativo" multi-plataforma. Las posibilidades de cero instalación y compatibilidad motivan técnicamente al proyecto.
+
+Otras motivaciones son las reflexiones que resultan de vincular presencia y distancia.
+
+% hablar de Typescript. Hijo de javascript o extensión de ese límite del mundo. 
+
+Javascript es un lenguaje de programación ampliamente utilizado por la industria. Encarnar las contradicciones en la escritura de software permite a esta investigación reflexionar sobre las posibilidades de la escritura de software artístico y para el arte, sobre todo en lo que apunta hacia la diversidad tecnológica.
+
+El proyecto busca plantear un aporte a la diversidad de marcos para realizar investigaciones con tecnología. Esta perspectiva plantearía el hacer explícitas ciertas contradicciones detectadas en la escritura investigativa y con software. 
+
+Finalmente consideramos que esta investigación puede aportar elementos para invertir las prioridades en lo que respecta a la escritura de software y su investigación: un contexto inclusivo y políticamente activado podría incursionar en reflexiones sobre el buen conocer, como un ámbito del buen vivir. 
+
+\section{Indice tentativo}
+
+Los capítulos están organizados de acuerdo a una narrativa de descenso entre capas. 
+
+\subsection{Introducción}
+
+En esta sección se hablaría de la perspectiva de investigación. Qué entendemos por escritura con y de software y la intención de usar los conceptos como métafora.
+
+También se pueden resolver algunas distinciones/contradicciones iniciales necesarias como software para hacer música o para hacer arte y software que es arte. % importante clarificar si voy a trabajar con distinciones o contradicciones. Según el marco que he planteado, podrían ser más contradicciones 
+
+Punto de partida: estudios del software y el giro de los nuevos medios
+¿Cómo se plantea el estado de la tecnología musical frente a estas reconfiguraciones? En particular ¿Qué papel juegan los lenguajes de programación en esta articulación? 
+
+Aquí podría plantearse y responderse si una tesis puede ser "una pieza convencional de escritura académica" y un pedazo de software al mismo tiempo. 
+La cuestión de la acción se puede enunciar desde aquí y podría desarrollarse más abajo. Fuerte influencia de Antithesis de Geoff Cox y en general de su pensamiento.
+
+En este apartado puedo hacer explícita la metodología de investigación. 
+Distinción piezas-marcos de realización tecnológica. El código como puente. 
+
+\subsection{Antecedentes}
+
+Siguiendo la última idea, este apartado puede hablar más de piezas instanciadas que de marcos tecnológicos de realización artística. 
+
+Ecosistema de piezas y no de marcos de trabajo en el que se inserta esta investigación 
+
+\subsection{Marcos de trabajo}
+
+% En este apartado se puede abordar la contradicción tecnológica 
+
+Legado que hila el pensamiento musical algorítmico. Plataformas como Music N y el rastreo que hace Ge Wang sobre este tema.
+
+\subsubsection{Legado Audio}
+
+\begin{itemize}
+\item SuperCollider
+\item CommonMusic 
+\item Incluso plataformas de más alto nivel de lo que se trata en esta investigación como Megra, Tidal Cycles, Maximilian, Punctual o Conduct.
+\item Max/MSP
+\item WebAudioAPI
+\item ¿DAWs? 
+\end{itemize}
+
+\subsubsection{Legado Video}
+
+\begin{itemize}
+\item OpenFrameworks 
+\item TouchDesigner y plataformas como 
+\item Processing
+\item Hydra
+\item Three.js 
+\end{itemize}
+
+\subsubsection{AV / Javascript}
+
+Experiencia de Notas de Ausencia y de Panorama 
+
+Estructuras compartidas fuera de un marco de trabajo como los que se han enunciado hasta el momento.
+
+\subsection{Expresividad}
+\label{sec:orgdaa42df}
+
+\subsubsection{Modo estático}
+
+Piezas fijas y la composición conducida por (bases) de datos 
+Sonificación-Visualización
+La tradición electroacústica-acusmática 
+
+\subsubsection{Modo dinámico}
+
+Live coding y captura gestual 
+El problema de la expresividad con algo que aparentemente no es gestual 
+
+\subsubsection{Intermedio}
+
+Esas estructuras pueden ser fijas o dinámicas y dependen de varios niveles de profundidad que las significan y las ejecutan
+En la práctica, cualquier entorno está en esta mediación. Trabajo muerto acumulado anteriormente. Reflexionar sobre esto
+
+\subsection{Extensión y escritura}
+
+\subsubsection{Modulos personalizados}
+
+Escritura de bibliotecas para alcanzar una expresividad intermedia.
+¿Qué implica escribir módulos personalizados?
+Primero que no existan antecedentes y que la idea en lo general pueda al menos realizarse técnicamente.
+
+\subsubsection{Reconfiguración de distinciones}
+
+Acción: reconfigurar la distinción usuario/desarrollador-escritor
+PLab como casos. Espacio de encuentro y tecnodiversidad
+Declaración/acción
+
+\subsubsection{Acción e idea}
+
+El código como intepretación y como partitura
+Valoraciones del código: elegancia y ofuscación
+Encuentros y brechas entre escritura de código, de productos académicos y de algo más abierto.
+
+\subsection{Integración}
+
+Recursividad
+
+Documentos que se ejecutan 
+
+% Quitar esto,  pensar más en un libro de autor
+% ¿Cómo convertir tu tesis en un libro?
+
+%\subsection{Resultados}
+
+% Pienso que esto podría sustituirse por integración pero no sé, siento que aquí hay algo redundante
+
+%Como un repaso de lo que está escrito antes, apuntes para las conclusiones
+
+\subsection{Conclusiones}
+
+Implicaciones de tesis que se compilan y se almacenan en repositorios. Repositorio en github como palimpsesto.
+
+\subsection{Referencias}
+
+\end{document}
