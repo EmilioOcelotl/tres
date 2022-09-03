@@ -1,5 +1,5 @@
 %\documentclass[12pt,letterpaper]{report}
-\documentclass[12pt,a4paper, twoside, openright,
+\documentclass[10pt,a4paper, twoside, openright,
 headinclude,footinclude,BCOR5mm,
 numbers=noenddot,cleardoublepage=empty,
 tablecaptionabove]{scrreprt}
@@ -17,26 +17,30 @@ tablecaptionabove]{scrreprt}
 %\usepackage{subfiles}
 %\usepackage{graphicx}
 \usepackage{subfig}
+
 \usepackage[eulerchapternumbers,subfig,beramono,eulermath,pdfspacing]{classicthesis}
 \usepackage{arsclassica}
+
 \usepackage[final]{pdfpages}
 
 \usepackage[a4paper,
             bindingoffset=0in]{geometry}
 
+% \usepackage[default]{sourcecodepro}
+
 %\definecolor{gris}{rgb}{0.9, 0.9, 0.9}
-%\pagecolor{black}
-%\color{white}
+\pagecolor{black}
+\color{white}
 
 %\input{sec/glos}
 % Magenta para fondo blanco, Lavender para fondo negro 
 
 \hypersetup{%
   colorlinks=true,
-  linkcolor=Magenta,
-  filecolor=Magenta,      
-  urlcolor=Magenta,
-  citecolor=Magenta,
+  linkcolor=Lavender,
+  filecolor=Lavender,      
+  urlcolor=Lavender,
+  citecolor=Lavender,
 }
 
 %\usepackage{enotez}
@@ -65,13 +69,18 @@ tablecaptionabove]{scrreprt}
 %\maketitle
 
 %\input{sec/portada/portada.pdf}
-\includepdf{../portada/portada.pdf}
+\includepdf{portada/portada.pdf}
 
 \tableofcontents
 \listoffigures
 
 \input{sec/introduccion}
 \input{sec/antecedentes}
+\input{sec/marcos} % programación eficiente y optimizada vs otras búsquedas estéticas 
+\input{sec/expresividad} % Programación fija y programación dinámica 
+\input{sec/extension} % Distinción usuario y desarrollador 
+\input{sec/integracion} % La brecha entre las escrituras 
+\input{sec/conclusiones}
 %\input{../perspectivas/perspectivas}
 
 % Primer capítulo 

@@ -4,7 +4,7 @@ La bitácora se ha trasladado a otro lado
 
 Prácticas performáticas, audiovisuales y experimentales con lenguajes de programación como instancias de conocimiento.
 
-## Ejecución
+## Compilación pdf 
 
 Compilar el documento, actualizar bibliografía 
 
@@ -17,7 +17,13 @@ Compilar el documento, actualizar bibliografía
 3.- compilar doc principal
 > tres
 
-Paso tres pero con la primer palabra del título para compilar por carpeta 
+## Compilación web
+
+> make4ht -x tres.tex
+
+## Recursos
+
+- [latex-css](https://github.com/vincentdoerig/latex-css)
 
 ## Cambios
 

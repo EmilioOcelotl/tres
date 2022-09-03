@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.8.23)  29 AUG 2022 15:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.8.23)  2 SEP 2022 12:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -41,12 +41,12 @@ Package: tocbasic 2021/11/13 v3.35 KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: babel extension for `toc' omitted
 (tocbasic)             because of missing \bbl@set@language on input line 137.
-Package scrreprt Info: You've used standard option `12pt'.
+Package scrreprt Info: You've used standard option `10pt'.
 (scrreprt)             This is correct!
-(scrreprt)             Internally I'm using `fontsize=12pt'.
+(scrreprt)             Internally I'm using `fontsize=10pt'.
 (scrreprt)             If you'd like to set the option with \KOMAoptions,
-(scrreprt)             you'd have to use `fontsize=12pt' there
-(scrreprt)             instead of `12pt', too.
+(scrreprt)             you'd have to use `fontsize=10pt' there
+(scrreprt)             instead of `10pt', too.
 Class scrreprt Info: You've used standard option `openright'.
 (scrreprt)           This is correct!
 (scrreprt)           Internally I'm using `open=right'.
@@ -75,10 +75,10 @@ Class scrreprt Warning: deprecated option `enabledeprecatedfontcommands'.
 (scrreprt)              longer. Therefore usage of this class option also
 (scrreprt)              is not recommended.
 
-Class scrreprt Info: File `scrsize12pt.clo' used to setup font sizes on input l
+Class scrreprt Info: File `scrsize10pt.clo' used to setup font sizes on input l
 ine 2487.
-(/usr/share/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
-File: scrsize12pt.clo 2021/11/13 v3.35 KOMA-Script font size class option (12pt
+(/usr/share/texmf-dist/tex/latex/koma-script/scrsize10pt.clo
+File: scrsize10pt.clo 2021/11/13 v3.35 KOMA-Script font size class option (10pt
 )
 )
 (/usr/share/texmf-dist/tex/latex/koma-script/typearea.sty
@@ -108,21 +108,21 @@ Package typearea Info: Switching compatibility level to `first'.
 \ta@temp=\skip51
 \footheight=\skip52
 Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 12
+(typearea)             DIV  = 8
 (typearea)             BCOR = 14.22636pt
 (typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 437.46118pt
-(typearea)              DIV departure   = -3%
-(typearea)              \evensidemargin = 24.9436pt
-(typearea)              \oddsidemargin  = -9.43683pt
+(typearea)              \textwidth      = 364.55101pt
+(typearea)              DIV departure   = -1%
+(typearea)              \evensidemargin = 73.55038pt
+(typearea)              \oddsidemargin  = 14.86656pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 548.5pt
-(typearea)              \topmargin      = -1.84941pt
-(typearea)              \headheight     = 18.125pt
-(typearea)              \headsep        = 21.75pt
-(typearea)              \topskip        = 12.0pt
-(typearea)              \footskip       = 50.75pt
-(typearea)              \baselineskip   = 14.5pt
+(typearea)              \textheight     = 454.0pt
+(typearea)              \topmargin      = 33.36087pt
+(typearea)              \headheight     = 15.0pt
+(typearea)              \headsep        = 18.0pt
+(typearea)              \topskip        = 10.0pt
+(typearea)              \footskip       = 42.0pt
+(typearea)              \baselineskip   = 12.0pt
 (typearea)              on input line 1743.
 )
 \c@part=\count186
@@ -565,13 +565,13 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \evensidemargin = 92.58438pt
 (typearea)              \oddsidemargin  = 24.38356pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 660.5pt
+(typearea)              \textheight     = 675.0pt
 (typearea)              \topmargin      = -40.58768pt
-(typearea)              \headheight     = 17.0pt
-(typearea)              \headsep        = 21.75pt
-(typearea)              \topskip        = 12.0pt
-(typearea)              \footskip       = 50.75pt
-(typearea)              \baselineskip   = 14.5pt
+(typearea)              \headheight     = 15.0pt
+(typearea)              \headsep        = 18.0pt
+(typearea)              \topskip        = 10.0pt
+(typearea)              \footskip       = 42.0pt
+(typearea)              \baselineskip   = 12.0pt
 (typearea)              on input line 251.
 
 (/usr/share/texmf-dist/tex/latex/mparhack/mparhack.sty
@@ -759,13 +759,13 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \evensidemargin = 69.91772pt
 (typearea)              \oddsidemargin  = 13.05023pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 694.5pt
+(typearea)              \textheight     = 709.0pt
 (typearea)              \topmargin      = -51.92102pt
-(typearea)              \headheight     = 17.0pt
-(typearea)              \headsep        = 21.75pt
-(typearea)              \topskip        = 12.0pt
-(typearea)              \footskip       = 50.75pt
-(typearea)              \baselineskip   = 14.5pt
+(typearea)              \headheight     = 15.0pt
+(typearea)              \headsep        = 18.0pt
+(typearea)              \topskip        = 10.0pt
+(typearea)              \footskip       = 42.0pt
+(typearea)              \baselineskip   = 12.0pt
 (typearea)              on input line 17.
 LaTeX Info: Redefining \spacedallcaps on input line 48.
 LaTeX Info: Redefining \spacedlowsmallcaps on input line 50.
@@ -847,9 +847,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen197
 \Gm@dimlist=\toks29
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 40.
+Package hyperref Info: Option `colorlinks' set `true' on input line 44.
 LaTeX Font Info:    Trying to load font information for OT1+pplj on input line 
-63.
+67.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1pplj.fd
 File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
@@ -868,35 +868,29 @@ LaTeX Warning: Label `fig:gallery' multiply defined.
 
 LaTeX Warning: Label `fig:gallery' multiply defined.
 
-
-LaTeX Warning: Label `fig:gallery' multiply defined.
-
-
-LaTeX Warning: Label `fig:gallery' multiply defined.
-
 )
 \openout1 = `tres.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Info: Redefining \. on input line 63.
-LaTeX Info: Redefining \% on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count313
@@ -919,7 +913,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 63.
+Package hyperref Info: Link coloring ON on input line 67.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -932,9 +926,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count319
 )
-LaTeX Info: Redefining \ref on input line 63.
-LaTeX Info: Redefining \pageref on input line 63.
-LaTeX Info: Redefining \nameref on input line 63.
+LaTeX Info: Redefining \ref on input line 67.
+LaTeX Info: Redefining \pageref on input line 67.
+LaTeX Info: Redefining \nameref on input line 67.
 
 (./tres.out) (./tres.out)
 \@outlinefile=\write3
@@ -947,9 +941,9 @@ Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           `bookmarkpackage=false' before \begin{document} and
 (scrreprt)           you can avoid this message adding:
 (scrreprt)             \usepackage{bookmark}
-(scrreprt)           before \begin{document} on input line 63.
+(scrreprt)           before \begin{document} on input line 67.
 Class scrreprt Info: temporary deactivation of babel-spanish quoting  on input 
-line 63.
+line 67.
 
 (/usr/share/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
@@ -958,17 +952,17 @@ Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
 \BKM@id=\count320
 ))
-Class scrreprt Info: reactivation of babel-spanish quoting  on input line 63.
+Class scrreprt Info: reactivation of babel-spanish quoting  on input line 67.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 63.
-Package microtype Info: Applying patch `item' on input line 63.
-Package microtype Info: Applying patch `toc' on input line 63.
-Package microtype Info: Applying patch `eqnum' on input line 63.
+LaTeX Info: Redefining \microtypecontext on input line 67.
+Package microtype Info: Applying patch `item' on input line 67.
+Package microtype Info: Applying patch `toc' on input line 67.
+Package microtype Info: Applying patch `eqnum' on input line 67.
 
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 63.
+Package microtype Warning: Unable to apply patch `footnote' on input line 67.
 
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -1004,15 +998,15 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * \textheight=591.5302pt
 * \oddsidemargin=-0.56833pt
 * \evensidemargin=35.28255pt
-* \topmargin=-9.61334pt
-* \headheight=17.0pt
-* \headsep=21.75pt
-* \topskip=12.0pt
-* \footskip=50.75pt
+* \topmargin=-3.86334pt
+* \headheight=15.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
 * \marginparwidth=106.64078pt
 * \marginparsep=12.8401pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1022,45 +1016,45 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<../portada/portada.pdf, id=4, 597.50829pt x 845.0471pt>
-File: ../portada/portada.pdf Graphic file (type pdf)
-<use ../portada/portada.pdf>
-Package pdftex.def Info: ../portada/portada.pdf  used on input line 68.
+<portada/portada.pdf, id=4, 597.50829pt x 845.0471pt>
+File: portada/portada.pdf Graphic file (type pdf)
+<use portada/portada.pdf>
+Package pdftex.def Info: portada/portada.pdf  used on input line 72.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-File: ../portada/portada.pdf Graphic file (type pdf)
-<use ../portada/portada.pdf>
-Package pdftex.def Info: ../portada/portada.pdf  used on input line 68.
+File: portada/portada.pdf Graphic file (type pdf)
+<use portada/portada.pdf>
+Package pdftex.def Info: portada/portada.pdf  used on input line 72.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<../portada/portada.pdf, id=7, page=1, 597.50829pt x 845.0471pt>
-File: ../portada/portada.pdf Graphic file (type pdf)
-<use ../portada/portada.pdf, page 1>
-Package pdftex.def Info: ../portada/portada.pdf , page1 used on input line 68.
+<portada/portada.pdf, id=7, page=1, 597.50829pt x 845.0471pt>
+File: portada/portada.pdf Graphic file (type pdf)
+<use portada/portada.pdf, page 1>
+Package pdftex.def Info: portada/portada.pdf , page1 used on input line 72.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-File: ../portada/portada.pdf Graphic file (type pdf)
-<use ../portada/portada.pdf, page 1>
-Package pdftex.def Info: ../portada/portada.pdf , page1 used on input line 68.
+File: portada/portada.pdf Graphic file (type pdf)
+<use portada/portada.pdf, page 1>
+Package pdftex.def Info: portada/portada.pdf , page1 used on input line 72.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../portada/portada.pdf Graphic file (type pdf)
-<use ../portada/portada.pdf, page 1>
-Package pdftex.def Info: ../portada/portada.pdf , page1 used on input line 68.
+File: portada/portada.pdf Graphic file (type pdf)
+<use portada/portada.pdf, page 1>
+Package pdftex.def Info: portada/portada.pdf , page1 used on input line 72.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../portada/portada.pdf Graphic file (type pdf)
-<use ../portada/portada.pdf, page 1>
-Package pdftex.def Info: ../portada/portada.pdf , page1 used on input line 68.
+File: portada/portada.pdf Graphic file (type pdf)
+<use portada/portada.pdf, page 1>
+Package pdftex.def Info: portada/portada.pdf , page1 used on input line 72.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
-File: ../portada/portada.pdf Graphic file (type pdf)
-<use ../portada/portada.pdf, page 1>
-Package pdftex.def Info: ../portada/portada.pdf , page1 used on input line 68.
+File: portada/portada.pdf Graphic file (type pdf)
+<use portada/portada.pdf, page 1>
+Package pdftex.def Info: portada/portada.pdf , page1 used on input line 72.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 [1
 
- <../portada/portada.pdf{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}>] [
-2
+ <./portada/portada.pdf{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}>]
+[2
 
 
 ]
 LaTeX Font Info:    Trying to load font information for OT1+iwona on input line
- 70.
+ 74.
  (/usr/share/texmf-dist/tex/latex/iwona/ot1iwona.fd
 File: ot1iwona.fd 2008/07/22 v0.995 font definition file for OT1/iwona (MW)
 )
@@ -1068,7 +1062,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `iwona' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for U+zeur on input line 70
+LaTeX Font Info:    Trying to load font information for U+zeur on input line 74
 .
 
 (/usr/share/texmf-dist/tex/latex/eulervm/uzeur.fd
@@ -1077,7 +1071,7 @@ File: uzeur.fd 2005/01/11 v4.0 (WaS)
 (/usr/share/texmf-dist/tex/latex/microtype/mt-eur.cfg
 File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+zeus on input line 70
+LaTeX Font Info:    Trying to load font information for U+zeus on input line 74
 .
 
 (/usr/share/texmf-dist/tex/latex/eulervm/uzeus.fd
@@ -1087,7 +1081,7 @@ File: uzeus.fd 2005/01/11 v4.0 (WaS)
 File: mt-eus.cfg 2006/07/28 v1.2 microtype config. file: AMS Euler Script (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+zeuex on input line 7
-0.
+4.
 
 (/usr/share/texmf-dist/tex/latex/eulervm/uzeuex.fd
 File: uzeuex.fd 2005/01/11 v4.0 (WaS)
@@ -1099,7 +1093,7 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-70.
+74.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -1108,22 +1102,22 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package tocbasic Info: character protrusion at toc deactivated on input line 70
+Package tocbasic Info: character protrusion at toc deactivated on input line 74
 .
  (./tres.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 Package microtype Info: Character `013' is missing
-(microtype)             in font `OT1/pplj/m/sc/12'.
+(microtype)             in font `OT1/pplj/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
  [3])
 \tf@toc=\write4
 \openout4 = `tres.toc'.
 
-LaTeX Info: Redefining \. on input line 71.
-LaTeX Info: Redefining \% on input line 71.
+LaTeX Info: Redefining \. on input line 75.
+LaTeX Info: Redefining \% on input line 75.
  [4]
-Package tocbasic Info: character protrusion at lof deactivated on input line 71
+Package tocbasic Info: character protrusion at lof deactivated on input line 75
 .
 
 (./tres.lof
@@ -1143,150 +1137,107 @@ Cap\'{\i }tulo 1.
 
 ]
 Package microtype Info: Character `013' is missing
-(microtype)             in font `OT1/iwona/m/sc/17.28'.
+(microtype)             in font `OT1/iwona/m/sc/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `013' is missing
-(microtype)             in font `OT1/iwona/b/sc/12'.
+(microtype)             in font `OT1/iwona/b/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
-
-Underfull \vbox (badness 1728) has occurred while \output is active []
-
  [7]
-LaTeX Info: Redefining \. on input line 70.
-LaTeX Info: Redefining \% on input line 70.
-
-[8]
-Overfull \hbox (9.7151pt too wide) in paragraph at lines 97--98
-\OT1/pplj/m/n/12 de ren-de-ri-za-do de au-dio y vi-deo y en ge-ne-ral, co-mo un
- "sis-te-ma operativo"multi-
- []
-
-
-Underfull \vbox (badness 4995) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 98.
-LaTeX Info: Redefining \% on input line 98.
+LaTeX Info: Redefining \. on input line 94.
+LaTeX Info: Redefining \% on input line 94.
+ [8]
+LaTeX Info: Redefining \. on input line 127.
+LaTeX Info: Redefining \% on input line 127.
 Package microtype Info: Character `013' is missing
-(microtype)             in font `OT1/iwona/m/sc/12'.
+(microtype)             in font `OT1/iwona/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
- [9])
-(./sec/antecedentes.tex
+ [9]) (./sec/antecedentes.tex
 Cap\'{\i }tulo 2.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-[10]
-
-Package natbib Warning: Citation `ocelotlLic' on page 11 undefined on input lin
-e 25.
-
-
-Package natbib Warning: Citation `schaeffer' on page 11 undefined on input line
- 25.
-
-
-Package natbib Warning: Citation `schafer1' on page 11 undefined on input line 
-25.
-
-
-Package natbib Warning: Citation `augoyard' on page 11 undefined on input line 
-25.
-
-
-Package natbib Warning: Citation `ocelotlMas' on page 11 undefined on input lin
-e 29.
-
-
-Underfull \vbox (badness 4595) has occurred while \output is active []
-
- [11
+[10] [11
 
 
 ]
-Underfull \vbox (badness 2961) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 50.
-LaTeX Info: Redefining \% on input line 50.
- [12]
-LaTeX Info: Redefining \. on input line 79.
-LaTeX Info: Redefining \% on input line 79.
-
-[13]
-
-Package natbib Warning: Citation `McLean2011' on page 14 undefined on input lin
-e 105.
-
-LaTeX Info: Redefining \. on input line 110.
-LaTeX Info: Redefining \% on input line 110.
-[14]
-
-Package natbib Warning: Citation `villasenor' on page 15 undefined on input lin
-e 117.
-
-<../img/of13.png, id=199, 1927.2pt x 1084.05pt>
-File: ../img/of13.png Graphic file (type png)
-<use ../img/of13.png>
-Package pdftex.def Info: ../img/of13.png  used on input line 125.
-(pdftex.def)             Requested size: 418.25368pt x 235.26619pt.
-LaTeX Info: Redefining \. on input line 131.
-LaTeX Info: Redefining \% on input line 131.
-[15 <../img/of13.png>]
-LaTeX Info: Redefining \. on input line 158.
-LaTeX Info: Redefining \% on input line 158.
- [16]
-LaTeX Info: Redefining \. on input line 189.
-LaTeX Info: Redefining \% on input line 189.
- [17]
-<../img/notas02.png, id=268, 1909.1325pt x 999.735pt>
+<../img/notas02.png, id=250, 1909.1325pt x 999.735pt>
 File: ../img/notas02.png Graphic file (type png)
 <use ../img/notas02.png>
-Package pdftex.def Info: ../img/notas02.png  used on input line 192.
+Package pdftex.def Info: ../img/notas02.png  used on input line 193.
 (pdftex.def)             Requested size: 418.25368pt x 219.01184pt.
-LaTeX Info: Redefining \. on input line 200.
-LaTeX Info: Redefining \% on input line 200.
- [18 <../img/notas02.png>]
-<../img/pumpum.JPG, id=285, 5203.44pt x 3468.96pt>
-File: ../img/pumpum.JPG Graphic file (type jpg)
-<use ../img/pumpum.JPG>
-Package pdftex.def Info: ../img/pumpum.JPG  used on input line 223.
-(pdftex.def)             Requested size: 418.25368pt x 278.79283pt.
-LaTeX Info: Redefining \. on input line 226.
-LaTeX Info: Redefining \% on input line 226.
- [19]
-<../img/col2.png, id=294, 1927.2pt x 1084.05pt>
-File: ../img/col2.png Graphic file (type png)
-<use ../img/col2.png>
-Package pdftex.def Info: ../img/col2.png  used on input line 234.
-(pdftex.def)             Requested size: 418.25368pt x 235.26619pt.
+LaTeX Info: Redefining \. on input line 199.
+LaTeX Info: Redefining \% on input line 199.
+ [12]
+Underfull \vbox (badness 1194) has occurred while \output is active []
 
-Underfull \hbox (badness 4353) in paragraph at lines 235--235
-[][]|\OT1/pplj/m/n/10.95 Cap-tu-ra del con-cier-to del Co-lo-quio de alum-nas [
-][]$https : / / youtu . be /
+LaTeX Info: Redefining \. on input line 209.
+LaTeX Info: Redefining \% on input line 209.
+ [13 <../img/notas02.png>]
+Overfull \hbox (20.92607pt too wide) in paragraph at lines 243--244
+[]\OT1/pplj/m/n/10 Otro an-te-ce-den-te de es-te pro-yec-to es la pr[]acti-ca y
+ re-fle-xi[]on plan-tea-da en co-lec-ti-vo por\OT1/pplj/m/it/10 PiranhaLab[][][
+][][]\OT1/pplj/m/n/10 . 
  []
 
-LaTeX Info: Redefining \. on input line 248.
-LaTeX Info: Redefining \% on input line 248.
-[20 <../img/pumpum.JPG>]
-<../img/conversatorio.jpg, id=306, 963.6pt x 641.39626pt>
+<../img/conversatorio.jpg, id=288, 963.6pt x 641.39626pt>
 File: ../img/conversatorio.jpg Graphic file (type jpg)
 <use ../img/conversatorio.jpg>
-Package pdftex.def Info: ../img/conversatorio.jpg  used on input line 251.
+Package pdftex.def Info: ../img/conversatorio.jpg  used on input line 253.
 (pdftex.def)             Requested size: 418.25368pt x 278.39833pt.
+LaTeX Info: Redefining \. on input line 264.
+LaTeX Info: Redefining \% on input line 264.
+[14]) (./sec/marcos.tex
+Cap\'{\i }tulo 3.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+[15 <../img/conversatorio.jpg>] [16
 
 
-Package natbib Warning: Citation `panoramaArticulo' on page 21 undefined on inp
-ut line 258.
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 262.
-LaTeX Info: Redefining \% on input line 262.
-[21 <../img/col2.png>])
-No file tres.bbl.
-LaTeX Info: Redefining \. on input line 103.
-LaTeX Info: Redefining \% on input line 103.
-[22 <../img/conversatorio.jpg>]
+ [17]
+LaTeX Info: Redefining \. on input line 81.
+LaTeX Info: Redefining \% on input line 81.
 
-Package natbib Warning: There were undefined citations.
+[18]) (./sec/expresividad.tex
+Cap\'{\i }tulo 4.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+[19] [20
 
-(./tres.aux
+
+]
+<../img/of13.png, id=341, 1927.2pt x 1084.05pt>
+File: ../img/of13.png Graphic file (type png)
+<use ../img/of13.png>
+Package pdftex.def Info: ../img/of13.png  used on input line 46.
+(pdftex.def)             Requested size: 418.25368pt x 235.26619pt.
+ [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+ [22 <../img/of13.png>]) (./sec/extension.tex
+Cap\'{\i }tulo 5.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+[23] [24
+
+
+]) (./sec/integracion.tex
+Cap\'{\i }tulo 6.
+[25] [26
+
+
+]) (./sec/conclusiones.tex
+Cap\'{\i }tulo 7.
+[27] [28
+
+
+]) (./tres.bbl [29] [30
+
+
+]) [31] (./tres.aux
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
 )
@@ -1297,11 +1248,11 @@ Package rerunfilecheck Info: File `tres.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22810 strings out of 478238
- 418589 string characters out of 5850456
- 914285 words of memory out of 5000000
- 40566 multiletter control sequences out of 15000+600000
- 543188 words of font info for 132 fonts, out of 8000000 for 9000
+ 22878 strings out of 478238
+ 419355 string characters out of 5850456
+ 917187 words of memory out of 5000000
+ 40595 multiletter control sequences out of 15000+600000
+ 538391 words of font info for 119 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,23n,106p,10626b,912s stack positions out of 5000i,500n,10000p,200000b,80000s
 
@@ -1416,20 +1367,20 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
 
-{/usr/share/texmf-dist/fonts/enc/dvips/iwona/rm-iwona.enc}{/usr/share/texmf-dis
-t/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fonts/enc/dvips/iwona/rm-i
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fonts
+/enc/dvips/iwona/rm-iwona.enc}{/usr/share/texmf-dist/fonts/enc/dvips/iwona/rm-i
 wona-sc.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
 usr/share/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></usr/share/t
 exmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/share/texmf-dist/fonts/type1
-/nowacki/iwona/iwonab.pfb></usr/share/texmf-dist/fonts/type1/nowacki/iwona/iwon
-abi.pfb></usr/share/texmf-dist/fonts/type1/nowacki/iwona/iwonar.pfb></usr/share
-/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/ty
-pe1/urw/palatino/uplr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/upl
-ri8a.pfb>
-Output written on tres.pdf (22 pages, 9778894 bytes).
+/public/fpl/fplrij8a.pfb></usr/share/texmf-dist/fonts/type1/nowacki/iwona/iwona
+b.pfb></usr/share/texmf-dist/fonts/type1/nowacki/iwona/iwonabi.pfb></usr/share/
+texmf-dist/fonts/type1/nowacki/iwona/iwonar.pfb></usr/share/texmf-dist/fonts/ty
+pe1/urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/upl
+r8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on tres.pdf (31 pages, 2886720 bytes).
 PDF statistics:
- 501 PDF objects out of 1000 (max. 8388607)
- 437 compressed objects within 5 object streams
- 94 named destinations out of 1000 (max. 500000)
- 18278 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 622 PDF objects out of 1000 (max. 8388607)
+ 550 compressed objects within 6 object streams
+ 121 named destinations out of 1000 (max. 500000)
+ 16828 words of extra memory for PDF output out of 17280 (max. 10000000)
 
