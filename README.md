@@ -21,6 +21,10 @@ Compilar el documento, actualizar bibliografía
 
 > make4ht -x tres.tex
 
+## Para juntar páginas
+
+pdfjam tres.pdf --nup 2x1 --suffix 2up --landscape --trim '0mm 0mm 0mm 0mm' --papersize '{297mm,460mm}' --outfile temp.pdff
+
 ## Recursos
 
 - [latex-css](https://github.com/vincentdoerig/latex-css)

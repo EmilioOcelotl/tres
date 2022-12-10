@@ -9,7 +9,7 @@ You're missing a field name---line 23 of file ../bib/panBib.bib
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 I was expecting a `,' or a `}'---line 41 of file ../bib/panBib.bib
- :    fileSize = 584 
+ :    filesize = 584 
  :                   KB
 I'm skipping whatever remains of this entry
 You're missing a field name---line 128 of file ../bib/panBib.bib
@@ -17,32 +17,22 @@ You're missing a field name---line 128 of file ../bib/panBib.bib
  :  %doi = {10.1017/S1355771809000296},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 178 of file ../bib/panBib.bib
+You're missing a field name---line 187 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 205 of file ../bib/panBib.bib
+You're missing a field name---line 225 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 217 of file ../bib/panBib.bib
+You're missing a field name---line 237 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 227 of file ../bib/panBib.bib
- :   
- :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 252 of file ../bib/panBib.bib
- :   
- :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 262 of file ../bib/panBib.bib
+You're missing a field name---line 247 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
@@ -62,17 +52,17 @@ You're missing a field name---line 292 of file ../bib/panBib.bib
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 303 of file ../bib/panBib.bib
+You're missing a field name---line 302 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 314 of file ../bib/panBib.bib
+You're missing a field name---line 312 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 324 of file ../bib/panBib.bib
+You're missing a field name---line 323 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
@@ -92,140 +82,155 @@ You're missing a field name---line 354 of file ../bib/panBib.bib
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 366 of file ../bib/panBib.bib
+You're missing a field name---line 364 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 377 of file ../bib/panBib.bib
+You're missing a field name---line 374 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 388 of file ../bib/panBib.bib
+You're missing a field name---line 386 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 399 of file ../bib/panBib.bib
+You're missing a field name---line 397 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 410 of file ../bib/panBib.bib
+You're missing a field name---line 408 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 420 of file ../bib/panBib.bib
+You're missing a field name---line 419 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 431 of file ../bib/panBib.bib
+You're missing a field name---line 430 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 441 of file ../bib/panBib.bib
+You're missing a field name---line 440 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 449 of file ../bib/panBib.bib
+You're missing a field name---line 451 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 457 of file ../bib/panBib.bib
+You're missing a field name---line 461 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 465 of file ../bib/panBib.bib
+You're missing a field name---line 469 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 474 of file ../bib/panBib.bib
+You're missing a field name---line 477 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 482 of file ../bib/panBib.bib
+You're missing a field name---line 485 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 490 of file ../bib/panBib.bib
+You're missing a field name---line 494 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 498 of file ../bib/panBib.bib
+You're missing a field name---line 502 of file ../bib/panBib.bib
  :   
  :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 508 of file ../bib/panBib.bib
+You're missing a field name---line 510 of file ../bib/panBib.bib
+ :   
+ :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 518 of file ../bib/panBib.bib
+ :   
+ :   % commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 528 of file ../bib/panBib.bib
  :     
  :     %pages    = "321-330",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 535 of file ../bib/panBib.bib
+You're missing a field name---line 565 of file ../bib/panBib.bib
  : 
  : %  author = {Charles, P.W.D.},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 602 of file ../bib/panBib.bib
+You're missing a field name---line 642 of file ../bib/panBib.bib
  :     
  :     %note     = "",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 628 of file ../bib/panBib.bib
+You're missing a field name---line 678 of file ../bib/panBib.bib
  :   
  :   %edition = {Primera}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You've used 8 entries,
+You're missing a field name---line 689 of file ../bib/panBib.bib
+ :   
+ :   %edition = {Primera}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 24 entries,
             1977 wiz_defined-function locations,
-            537 strings with 5117 characters,
-and the built_in function-call counts, 2446 in all, are:
-= -- 245
-> -- 69
-< -- 9
-+ -- 22
-- -- 20
-* -- 160
-:= -- 454
-add.period$ -- 25
-call.type$ -- 8
-change.case$ -- 48
-chr.to.int$ -- 8
-cite$ -- 8
-duplicate$ -- 113
-empty$ -- 179
-format.name$ -- 34
-if$ -- 482
+            633 strings with 7415 characters,
+and the built_in function-call counts, 7847 in all, are:
+= -- 764
+> -- 274
+< -- 24
++ -- 92
+- -- 86
+* -- 552
+:= -- 1435
+add.period$ -- 76
+call.type$ -- 24
+change.case$ -- 153
+chr.to.int$ -- 24
+cite$ -- 24
+duplicate$ -- 352
+empty$ -- 570
+format.name$ -- 122
+if$ -- 1551
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 6
-newline$ -- 43
-num.names$ -- 25
-pop$ -- 47
+missing$ -- 24
+newline$ -- 122
+num.names$ -- 77
+pop$ -- 163
 preamble$ -- 1
-purify$ -- 50
+purify$ -- 162
 quote$ -- 0
-skip$ -- 87
+skip$ -- 258
 stack$ -- 0
-substring$ -- 118
-swap$ -- 12
-text.length$ -- 1
-text.prefix$ -- 4
+substring$ -- 370
+swap$ -- 39
+text.length$ -- 3
+text.prefix$ -- 11
 top$ -- 0
-type$ -- 42
+type$ -- 126
 warning$ -- 0
-while$ -- 18
+while$ -- 57
 width$ -- 0
-write$ -- 107
-(There were 37 error messages)
+write$ -- 310
+(There were 38 error messages)

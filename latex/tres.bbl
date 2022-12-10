@@ -1,15 +1,69 @@
 \begin{thebibliography}{}
 
+\bibitem[Angel y Ogborn, 2022]{Angel2022Seis8s}
+Angel, L. N.~D. y Ogborn, D. (2022).
+\newblock Seis8s: a web-based localized computer-music language.
+\newblock En {\em NIME 2022}.
+\newblock https://nime.pubpub.org/pub/wolnquiz.
+
+\bibitem[Angel \textit{et al.}, 2019]{bellacode}
+Angel, L. N.~D., Teixido, M., Ocelotl, E., y Ogborn, D. (2019).
+\newblock {Bellacode: localized textual interfaces for live coding music}.
+\newblock En {\em {Proceedings of the Fourth International Conference on Live
+  Coding}}, p. 353, Madrid, Spain. Medialab Prado / Madrid Destino.
+
 \bibitem[Augoyard y Torgue, 2006]{augoyard}
 Augoyard, J.-F. y Torgue, H., editores (2006).
 \newblock {\em Sonic experience. A guide to everyday sounds}.
 \newblock McHill Queen’s University Press, Canada.
+
+\bibitem[Cox, 2010]{antithesis}
+Cox, G. (2010).
+\newblock {\em Antithesis: The Dialectics of Software Art}.
+\newblock Digital Aesthetics Research Center, Denmark.
+
+\bibitem[Di~Prospero, 2015]{diProspero}
+Di~Prospero, C. (2015).
+\newblock Live coding. arte computacional en proceso.
+\newblock {\em Revista Contenido. Cultura y Ciencias Sociales}, 1(5):44--63.
+
+\bibitem[Dijkstra, nd]{EWD:EWD35}
+Dijkstra, E.~W. (n.d.).
+\newblock Some meditations on advanced programming.
+\newblock {C}irculated privately.
+
+\bibitem[García, 2021]{jorgeDavid2021}
+García, J.~D. (2021).
+\newblock Tecnología libre para una música libre ¿es posible construir un
+  sistema de producción alternativo?
+\newblock {\em Revista F-ILIA}, II(4):57--88.
+
+\bibitem[Kartynnik \textit{et al.}, 2019]{kartynnik2019realtime}
+Kartynnik, Y., Ablavatski, A., Grishchenko, I., y Grundmann, M. (2019).
+\newblock Real-time facial surface geometry from monocular video on mobile
+  gpus.
+
+\bibitem[Knuth, 1991]{texBook}
+Knuth, D.~E. (1991).
+\newblock {\em The TexBook}.
+\newblock Addison –Wesley Publishing Company.
+
+\bibitem[Manovich, 2001]{manovichlanguage}
+Manovich, L. (2001).
+\newblock {\em The Language of New Media}.
+\newblock Leonardo (Series) (Cambridge, Mass.). MIT Press.
 
 \bibitem[McLean, 2011]{McLean2011}
 McLean, A. (2011).
 \newblock {\em {Artist-Programmers} and Programming Languages for the Arts}.
 \newblock Tesis doctoral, Department of Computing, Goldsmiths, University of
   London.
+
+\bibitem[Montfort, 2008]{obfuscatedCode}
+Montfort, N. (2008).
+\newblock Obfuscated code.
+\newblock En Fuller, M., editor, {\em Software Studies: A Lexicon}. The MIT
+  Press.
 
 \bibitem[Ocelotl, 2015]{ocelotlLic}
 Ocelotl, E. (2015).
@@ -25,10 +79,25 @@ Ocelotl, E. (2019).
 \newblock Tesis de maestría en música (tecnología musical), Posgrado en
   Música. Universidad Nacional Autónoma de México.
 
+\bibitem[Pantieri, 2008]{pantieri2008arte}
+Pantieri, L. (2008).
+\newblock L arte di scrivere con latex. un introduzione a latex.
+
 \bibitem[PiranhaLab, 2020]{panoramaArticulo}
 PiranhaLab (2020).
 \newblock Panorama.
 \newblock \url{https://github.com/piranhalab/panorama}.
+
+\bibitem[Platohedro \textit{et al.}, 2019]{platohedro}
+Platohedro, Correa, A., Alvarez, L., Fleischmann, L., Rodríguez, Y., Rueda,
+  D., Jaramillo, J.~A., Correa, C., y y O.~Narváez (2019).
+\newblock {\em Platohedro. Multiversos}.
+\newblock Cráneo Invertido, Medellín, Colombia.
+
+\bibitem[Roads, 2001]{microsound}
+Roads, C. (2001).
+\newblock {\em Microsound / Curtis Roads.}
+\newblock MIT Press, Cambridge, Mass.
 
 \bibitem[Schaeffer, 2003]{schaeffer}
 Schaeffer, P. (2003).
@@ -40,6 +109,25 @@ Schafer, M.~R. (1994).
 \newblock {\em The Soundscape. Our Sonic Environment and the Turning of the
   World}.
 \newblock Destiny Books, Vermont.
+
+\bibitem[Shanken, 2010]{shankenCanon}
+Shanken, E.~A. (2010).
+\newblock Historicizing art and technology: Forging a method and firing a
+  canon.
+\newblock En Grau, O., editor, {\em Media Art Histories}, pp. 43--70. The MIT
+  Press.
+
+\bibitem[Soon y Cox, 2020]{aestheticProgramming}
+Soon, W. y Cox, G. (2020).
+\newblock {\em Aesthetic Programming: A Handbook of Software Studies}.
+\newblock Open Humanities Press.
+
+\bibitem[Villaseñor, 2022]{phdVillasenor}
+Villaseñor, H. (2022).
+\newblock {\em Sonotexto : relación entre práctica artística y desarrollo
+  tecnológico en el live coding}.
+\newblock Tesis doctoral, Posgrado en Música (Tecnología Musical).
+  Universidad Nacional Autónoma de México.
 
 \bibitem[Villaseñor-Ramírez y Paz, 2020]{villasenor}
 Villaseñor-Ramírez, H. y Paz, I. (2020).

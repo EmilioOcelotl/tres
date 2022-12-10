@@ -1,16 +1,27 @@
+% En general:
+
+% Si el sonido y la imagen en movimiento son parte fundamental de mi investigación, entonces es necesario buscar alternativas de presentación de investigación donde la palabra escrita no sea lo central. Será una chamba muy complicada trabajar en un repositorio donde estos recursos puedan existir y que sean parte de una pieza adicional?
+
+% Darle más importancia a lo visual
+
+% Cuajar mejor los objetivos y las preguntas de investigación 
+
 %\documentclass[12pt,letterpaper]{report}
-\documentclass[10pt,a4paper, twoside, openright,
+\documentclass[12pt,letter, extrafontsizes, twoside,
 headinclude,footinclude,BCOR5mm,
 numbers=noenddot,cleardoublepage=empty,
-tablecaptionabove]{scrreprt}
+tablecaptionabove]{book}
+\usepackage{float}
+\usepackage{setspace}
+
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
-
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{graphicx}
-
+\usepackage{verbatim}
+\usepackage{multicol}
 \usepackage{hyperref}
 \usepackage[sort&compress]{natbib}
 \usepackage{setspace}
@@ -18,29 +29,41 @@ tablecaptionabove]{scrreprt}
 %\usepackage{graphicx}
 \usepackage{subfig}
 
-\usepackage[eulerchapternumbers,subfig,beramono,eulermath,pdfspacing]{classicthesis}
+\usepackage[eulerchapternumbers,subfig,eulermath,pdfspacing]{classicthesis}
 \usepackage{arsclassica}
+%\usepackage{mathpazo}
+\usepackage[T1]{fontenc}
+%\usepackage[]{AlegreyaSans}
+%\usepackage{AlegreyaSans}
+\usepackage[osf]{Alegreya} %% Option 'black' gives heavier bold face 
+\renewcommand*\oldstylenums[1]{{\AlegreyaOsF #1}}
+
+
+%\usepackage[paper=A4]{typearea}
 
 \usepackage[final]{pdfpages}
+% \usepackage[a3paper]{geometry}
+\usepackage[letterpaper, margin=1.5in]{geometry}
 
-\usepackage[a4paper,
-            bindingoffset=0in]{geometry}
 
 % \usepackage[default]{sourcecodepro}
 
 %\definecolor{gris}{rgb}{0.9, 0.9, 0.9}
-\pagecolor{black}
-\color{white}
+\pagecolor{white}
+\color{black}
 
-%\input{sec/glos}
-% Magenta para fondo blanco, Lavender para fondo negro 
+\newenvironment{Figure}
+  {\par\medskip\noindent\minipage{\linewidth}}
+  {\endminipage\par\medskip}
 
-\hypersetup{%
+  % Magenta para fondo blanco, Lavender para fondo negro 
+
+\hypersetup{% en el futuro definir paletas de colores
   colorlinks=true,
-  linkcolor=Lavender,
-  filecolor=Lavender,      
-  urlcolor=Lavender,
-  citecolor=Lavender,
+  linkcolor=RedViolet,
+  filecolor=RedViolet,      
+  urlcolor=RedViolet,
+  citecolor=RedViolet,
 }
 
 %\usepackage{enotez}
@@ -48,9 +71,10 @@ tablecaptionabove]{scrreprt}
 
 \urlstyle{same}
 
-%\usepackage[toc]{glossaries}
-%\makeglossaries
-%\input{sec/glos.tex}
+\usepackage[toc]{glossaries}
+\makeglossaries
+\input{sec/glos.tex}
+%\usepackage{dblfnote}
 
 \usepackage{etoolbox}
 \newtoggle{tesis}
@@ -66,14 +90,26 @@ tablecaptionabove]{scrreprt}
 
 \begin{document}
 
+
+%\onehalfspace
 %\maketitle
 
 %\input{sec/portada/portada.pdf}
-\includepdf{portada/portada.pdf}
 
+% Ajustar portada a formato landscape
+
+%\pagecolor{black}
+\includepdf{portada/portada.pdf}
+%\pagecolor{white}
+
+%\begin{multicols}{1}
+  
+%\raggedright
+  
 \tableofcontents
 \listoffigures
-
+\clearpage
+  
 \input{sec/introduccion}
 \input{sec/antecedentes}
 \input{sec/marcos} % programación eficiente y optimizada vs otras búsquedas estéticas 
@@ -83,34 +119,13 @@ tablecaptionabove]{scrreprt}
 \input{sec/conclusiones}
 %\input{../perspectivas/perspectivas}
 
-% Primer capítulo 
-
-% \input{sec/casos}
-% \input{sec/ecosistema}
-% \input{sec/interfaz}
-% \subfile{sec/anti/anti}
-
-% \input{sec/efectos}
-
-%\input{../three/three}
-%\input{../anti/anti}
-%\input{sec/caso3}
-
-%\input{sec/caso3}
-% Segundo capítulo 
-
-
-% Tercer capítulo 
-
-% \input{sec/escritura}
-
-% \input{sec/conclusiones}
-
 \addcontentsline{toc}{chapter}{\protect\numberline{}Referencias}%
 \bibliography{../bib/panBib}{} 
 \bibliographystyle{../bib/apalike-es}
 \clearpage
 
-%\printglossaries
+\printglossaries
+
+% \end{multicols}
 
 \end{document}
