@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.11)  5 DEC 2022 12:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.11.11)  12 DEC 2022 17:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1347,19 +1347,20 @@ ut line 19.
 LaTeX Font Info:    Font shape `T1/Alegreya-OsF/regular/n' will be
 (Font)              scaled to size 7.6pt on input line 19.
  [7]
-Overfull \hbox (3.89528pt too wide) in paragraph at lines 44--45
-\T1/Alegreya-OsF/regular/n/12 ble-cer un ti-po de re-la-ción en-tre los agen-te
-s in-vo-lu-cra-dos. La in-ves-ti-ga-ción de [][]Di Pros-
- []
-
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+ [8]
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/m/sc/17.28'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Info: Redefining \. on input line 77.
-LaTeX Info: Redefining \% on input line 77.
-[8]
-LaTeX Info: Redefining \. on input line 94.
-LaTeX Info: Redefining \% on input line 94.
+LaTeX Font Info:    Font shape `T1/Alegreya-OsF/m/it' in size <10> not availabl
+e
+(Font)              Font shape `T1/Alegreya-OsF/regular/it' tried instead on in
+put line 76.
+LaTeX Font Info:    Font shape `T1/Alegreya-OsF/regular/it' will be
+(Font)              scaled to size 10.0pt on input line 76.
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1367,59 +1368,45 @@ Package microtype Info: Character `029' is missing
 LaTeX Font Info:    Font shape `T1/Alegreya-OsF/m/it' in size <12> not availabl
 e
 (Font)              Font shape `T1/Alegreya-OsF/regular/it' tried instead on in
-put line 104.
+put line 106.
 LaTeX Font Info:    Font shape `T1/Alegreya-OsF/regular/it' will be
-(Font)              scaled to size 12.0pt on input line 104.
-LaTeX Info: Redefining \. on input line 140.
-LaTeX Info: Redefining \% on input line 140.
+(Font)              scaled to size 12.0pt on input line 106.
+LaTeX Info: Redefining \. on input line 108.
+LaTeX Info: Redefining \% on input line 108.
  [10]
-Overfull \hbox (2.51953pt too wide) in paragraph at lines 171--172
-[]\T1/Alegreya-OsF/regular/n/12 Los ob-je-ti-vos de es-ta in-ves-ti-ga-ción son
- con-se-cuen-cia de las pre-gun-tas an-tes men-
- []
-
-LaTeX Info: Redefining \. on input line 175.
-LaTeX Info: Redefining \% on input line 175.
-[11]
-Underfull \vbox (badness 4217) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 211.
-LaTeX Info: Redefining \% on input line 211.
+LaTeX Info: Redefining \. on input line 155.
+LaTeX Info: Redefining \% on input line 155.
+ [11]
+LaTeX Info: Redefining \. on input line 192.
+LaTeX Info: Redefining \% on input line 192.
  [12]
-LaTeX Info: Redefining \. on input line 249.
-LaTeX Info: Redefining \% on input line 249.
-
-[13]
-LaTeX Font Info:    Font shape `T1/Alegreya-OsF/m/it' in size <10> not availabl
-e
-(Font)              Font shape `T1/Alegreya-OsF/regular/it' tried instead on in
-put line 259.
-LaTeX Font Info:    Font shape `T1/Alegreya-OsF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 259.
+LaTeX Info: Redefining \. on input line 222.
+LaTeX Info: Redefining \% on input line 222.
+ [13]
 LaTeX Font Info:    Font shape `T1/Alegreya-OsF/m/it' in size <7.6> not availab
 le
 (Font)              Font shape `T1/Alegreya-OsF/regular/it' tried instead on in
-put line 259.
+put line 261.
 LaTeX Font Info:    Font shape `T1/Alegreya-OsF/regular/it' will be
-(Font)              scaled to size 7.6pt on input line 259.
-
-Underfull \vbox (badness 3039) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 269.
-LaTeX Info: Redefining \% on input line 269.
- [14])
-(./sec/antecedentes.tex
+(Font)              scaled to size 7.6pt on input line 261.
+LaTeX Info: Redefining \. on input line 263.
+LaTeX Info: Redefining \% on input line 263.
+ [14]) (./sec/antecedentes.tex
 Cap\'{\i }tulo 2.
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-[15]
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [16
 
-] [17]
-LaTeX Info: Redefining \. on input line 162.
-LaTeX Info: Redefining \% on input line 162.
+Underfull \vbox (badness 2035) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [15]
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+[16] [17
+
+]
+LaTeX Info: Redefining \. on input line 161.
+LaTeX Info: Redefining \% on input line 161.
  [18]
 LaTeX Info: Redefining \. on input line 186.
 LaTeX Info: Redefining \% on input line 186.
@@ -1427,7 +1414,7 @@ LaTeX Info: Redefining \% on input line 186.
 LaTeX Info: Redefining \. on input line 200.
 LaTeX Info: Redefining \% on input line 200.
  [20]
-<../img/col2.png, id=423, 1927.2pt x 1084.05pt>
+<../img/col2.png, id=424, 1927.2pt x 1084.05pt>
 File: ../img/col2.png Graphic file (type png)
 <use ../img/col2.png>
 Package pdftex.def Info: ../img/col2.png  used on input line 210.
@@ -1450,10 +1437,10 @@ LaTeX Info: Redefining \% on input line 215.
 LaTeX Info: Redefining \. on input line 223.
 LaTeX Info: Redefining \% on input line 223.
  [22 <../img/col2.png>]
-LaTeX Info: Redefining \. on input line 243.
-LaTeX Info: Redefining \% on input line 243.
+LaTeX Info: Redefining \. on input line 242.
+LaTeX Info: Redefining \% on input line 242.
  [23]
-<../img/notas02.png, id=473, 1909.1325pt x 999.735pt>
+<../img/notas02.png, id=475, 1909.1325pt x 999.735pt>
 File: ../img/notas02.png Graphic file (type png)
 <use ../img/notas02.png>
 Package pdftex.def Info: ../img/notas02.png  used on input line 258.
@@ -1465,35 +1452,36 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 
-Underfull \vbox (badness 2846) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 268.
-LaTeX Info: Redefining \% on input line 268.
- [24 <../img/notas02.png>]
-LaTeX Info: Redefining \. on input line 282.
-LaTeX Info: Redefining \% on input line 282.
- [25]
-<../img/hydraRit.png, id=494, 1927.2pt x 1084.05pt>
+LaTeX Info: Redefining \. on input line 263.
+LaTeX Info: Redefining \% on input line 263.
+ [24]
+LaTeX Info: Redefining \. on input line 274.
+LaTeX Info: Redefining \% on input line 274.
+
+[25 <../img/notas02.png>]
+<../img/hydraRit.png, id=495, 1927.2pt x 1084.05pt>
 File: ../img/hydraRit.png Graphic file (type png)
 <use ../img/hydraRit.png>
 Package pdftex.def Info: ../img/hydraRit.png  used on input line 287.
 (pdftex.def)             Requested size: 397.485pt x 223.57153pt.
-<../img/conversatorio.jpg, id=502, 963.6pt x 641.39626pt>
+<../img/conversatorio.jpg, id=503, 963.6pt x 641.39626pt>
 File: ../img/conversatorio.jpg Graphic file (type jpg)
 <use ../img/conversatorio.jpg>
 Package pdftex.def Info: ../img/conversatorio.jpg  used on input line 336.
 (pdftex.def)             Requested size: 397.485pt x 264.56943pt.
 LaTeX Info: Redefining \. on input line 347.
 LaTeX Info: Redefining \% on input line 347.
- [26 <../img/hydraRit.png>]
+ [26]
 LaTeX Info: Redefining \. on input line 347.
 LaTeX Info: Redefining \% on input line 347.
- [27 <../img/conversatorio.jpg>]
+ [27 <../img/hydraRit.png> <../img/conversatorio.jpg>]
 Overfull \hbox (3.02406pt too wide) in paragraph at lines 352--352
 |[]\T1/iwona/m/sc/17.28/80ls seminario per-ma-nen-te de tec-no-lo-gía mu- 
  []
 
-<../img/figura7.png, id=519, 1630.09pt x 916.42375pt>
+<../img/figura7.png, id=521, 1630.09pt x 916.42375pt>
 File: ../img/figura7.png Graphic file (type png)
 <use ../img/figura7.png>
 Package pdftex.def Info: ../img/figura7.png  used on input line 367.
@@ -1511,7 +1499,7 @@ LaTeX Info: Redefining \% on input line 3.
  [30
 
 ]
-<../img/of13.png, id=535, 1927.2pt x 1084.05pt>
+<../img/of13.png, id=537, 1927.2pt x 1084.05pt>
 File: ../img/of13.png Graphic file (type png)
 <use ../img/of13.png>
 Package pdftex.def Info: ../img/of13.png  used on input line 32.
@@ -1520,7 +1508,7 @@ Package pdftex.def Info: ../img/of13.png  used on input line 32.
 LaTeX Info: Redefining \. on input line 37.
 LaTeX Info: Redefining \% on input line 37.
  [32 <../img/of13.png>]
-<../img/antiHydra1.png, id=546, 1927.2pt x 1084.05pt>
+<../img/antiHydra1.png, id=548, 1927.2pt x 1084.05pt>
 File: ../img/antiHydra1.png Graphic file (type png)
 <use ../img/antiHydra1.png>
 Package pdftex.def Info: ../img/antiHydra1.png  used on input line 56.
@@ -1536,7 +1524,7 @@ LaTeX Info: Redefining \% on input line 67.
 [33
 
  <../img/antiHydra1.png>]
-<../img/anti01.png, id=557, 1927.2pt x 1084.05pt>
+<../img/anti01.png, id=559, 1927.2pt x 1084.05pt>
 File: ../img/anti01.png Graphic file (type png)
 <use ../img/anti01.png>
 Package pdftex.def Info: ../img/anti01.png  used on input line 71.
@@ -1550,7 +1538,7 @@ See the caption package documentation for explanation.
 LaTeX Info: Redefining \. on input line 82.
 LaTeX Info: Redefining \% on input line 82.
 [34 <../img/anti01.png>]
-<../img/felicidades.png, id=572, 1262.7175pt x 811.03pt>
+<../img/felicidades.png, id=573, 1262.7175pt x 811.03pt>
 File: ../img/felicidades.png Graphic file (type png)
 <use ../img/felicidades.png>
 Package pdftex.def Info: ../img/felicidades.png  used on input line 86.
@@ -1561,32 +1549,32 @@ LaTeX Info: Redefining \% on input line 96.
 LaTeX Info: Redefining \. on input line 122.
 LaTeX Info: Redefining \% on input line 122.
  [36]
-<../img/imagen2.png, id=598, 1927.2pt x 1084.05pt>
+<../img/imagen2.png, id=599, 1927.2pt x 1084.05pt>
 File: ../img/imagen2.png Graphic file (type png)
 <use ../img/imagen2.png>
 Package pdftex.def Info: ../img/imagen2.png  used on input line 128.
 (pdftex.def)             Requested size: 397.485pt x 223.57153pt.
 LaTeX Info: Redefining \. on input line 132.
 LaTeX Info: Redefining \% on input line 132.
- [37 <../img/imagen2.png>]
-Overfull \hbox (0.68814pt too wide) in paragraph at lines 137--138
-[]\T1/Alegreya-OsF/regular/n/12 Comparativa en-tre Open-Fra-me-works y Th-ree.j
-s. Es-tán-da-res del tra-ba-jo con ima-
- []
-
-) (./sec/expresividad.tex
+ [37]
+LaTeX Info: Redefining \. on input line 132.
+LaTeX Info: Redefining \% on input line 132.
+ [38 <../img/imagen2.png>]) (./sec/expresividad.tex
 Cap\'{\i }tulo 4.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-[38
+[39
+
+]
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [40
 
 ]
 Underfull \vbox (badness 1248) has occurred while \output is active []
 
- [39
-
-]
-<../img/threeNw.png, id=618, 1927.2pt x 1084.05pt>
+ [41]
+<../img/threeNw.png, id=627, 1927.2pt x 1084.05pt>
 File: ../img/threeNw.png Graphic file (type png)
 <use ../img/threeNw.png>
 Package pdftex.def Info: ../img/threeNw.png  used on input line 68.
@@ -1594,94 +1582,63 @@ Package pdftex.def Info: ../img/threeNw.png  used on input line 68.
 LaTeX Info: Redefining \. on input line 73.
 LaTeX Info: Redefining \% on input line 73.
 
-[40]
+[42]
 LaTeX Info: Redefining \. on input line 73.
 LaTeX Info: Redefining \% on input line 73.
- [41 <../img/threeNw.png>]
-Overfull \hbox (33.50339pt too wide) in paragraph at lines 78--81
-[]\T1/Alegreya-OsF/regular/n/12 Piezas fi-jas y la com-po-si-ción con-du-ci-da 
-por (ba-ses) de da-tos Sonificación-Visualización
- []
-
-) (./sec/extension.tex
+ [43 <../img/threeNw.png>]) (./sec/extension.tex
 Cap\'{\i }tulo 5.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-[42
+[44
 
 ]) (./sec/integracion.tex
 Cap\'{\i }tulo 6.
-[43
-
-]
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [44]) (./sec/conclusiones.tex
-Cap\'{\i }tulo 7.
 [45
 
 ]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [46]) (./tres.bbl [47
+ [46] [47
+
+]) (./sec/conclusiones.tex
+Cap\'{\i }tulo 7.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+[48]) (./tres.bbl [49
 
 ]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [48
+ [50
 
-] [49]
-Underfull \hbox (badness 1603) in paragraph at lines 76--81
-[]\T1/Alegreya-OsF/regular/n/12 Ocelotl, E. (2019).  Cui-da-do con la bre-cha a
-u-to-rre-fe-ren-cial. Apor-tes pa-ra la
- []
-
-)
+] [51])
 LaTeX Info: Redefining \. on input line 125.
 LaTeX Info: Redefining \% on input line 125.
- [50] (./tres.gls
+ [52] (./tres.gls
 LaTeX Font Info:    Font shape `T1/Alegreya-OsF/b/n' in size <12> not available
 
 (Font)              Font shape `T1/Alegreya-OsF/bold/n' tried instead on input 
 line 5.
 LaTeX Font Info:    Font shape `T1/Alegreya-OsF/bold/n' will be
 (Font)              scaled to size 12.0pt on input line 5.
- [51
+ [53
 
 
 
 ]
-Overfull \hbox (7.89857pt too wide) in paragraph at lines 27--27
-[][]\T1/Alegreya-OsF/bold/n/12 Interacción Persona-Computadora \T1/Alegreya-OsF
-/regular/n/12 La in-ter-ac-ción persona-computadora o persona-
- []
-
 LaTeX Info: Redefining \. on input line 39.
 LaTeX Info: Redefining \% on input line 39.
-[52]
-Overfull \hbox (62.7297pt too wide) in paragraph at lines 52--54
-\T1/Alegreya-OsF/regular/n/12 sa-do en tex-to que corrre en la web. Con-sul-ta-
-do en: [][]$https : / / github . com / the-[]drunk-[]coder /
- []
-
-
-Overfull \hbox (8.06018pt too wide) in paragraph at lines 54--54
-\T1/Alegreya-OsF/regular/n/12 por-ta pro-gra-ma-ción fun-cio-nal pu-ra, por pro
--ce-di-mien-tos, im-pe-ra-ti-va y orien-
- []
-
-
-Overfull \hbox (44.23373pt too wide) in paragraph at lines 57--59
-\T1/Alegreya-OsF/regular/n/12 mú-si-cas de La-ti-noa-mé-ri-ca. Con-sul-ta-do en
-: [][]$https : / / github . com / luisnavarrodelangel /
- []
-
-LaTeX Info: Redefining \. on input line 63.
-LaTeX Info: Redefining \% on input line 63.
-[53])
+ [54]
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [55]
+LaTeX Info: Redefining \. on input line 82.
+LaTeX Info: Redefining \% on input line 82.
+ [56])
 LaTeX Info: Redefining \. on input line 131.
 LaTeX Info: Redefining \% on input line 131.
- [54] (./tres.aux
+
+[57] (./tres.aux
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
 )
@@ -1692,13 +1649,13 @@ Package rerunfilecheck Info: File `tres.out' has not changed.
 (rerunfilecheck)             Checksum: 588B6A705BB29016FF63C8ACE9077BAA;5601.
  ) 
 Here is how much of TeX's memory you used:
- 29037 strings out of 478238
- 531662 string characters out of 5850455
- 946426 words of memory out of 5000000
- 46545 multiletter control sequences out of 15000+600000
+ 29044 strings out of 478238
+ 531733 string characters out of 5850455
+ 944435 words of memory out of 5000000
+ 46547 multiletter control sequences out of 15000+600000
  684297 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 123i,23n,120p,1529b,986s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 123i,23n,120p,1529b,988s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 pdfTeX warning (dest): name{glo:instrument} has been referenced but does not ex
 ist, replaced by a fixed one
@@ -1714,10 +1671,10 @@ t/fonts/type1/huerta/alegreya/AlegreyaSans-Regular.pfb></usr/share/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/pub
 lic/amsfonts/euler/eurb10.pfb></usr/share/texmf-dist/fonts/type1/nowacki/iwona/
 iwonab.pfb></usr/share/texmf-dist/fonts/type1/nowacki/iwona/iwonar.pfb>
-Output written on tres.pdf (54 pages, 15793552 bytes).
+Output written on tres.pdf (57 pages, 15785349 bytes).
 PDF statistics:
- 843 PDF objects out of 1000 (max. 8388607)
- 729 compressed objects within 8 object streams
- 175 named destinations out of 1000 (max. 500000)
+ 845 PDF objects out of 1000 (max. 8388607)
+ 728 compressed objects within 8 object streams
+ 180 named destinations out of 1000 (max. 500000)
  22340 words of extra memory for PDF output out of 24883 (max. 10000000)
 
